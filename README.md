@@ -33,21 +33,21 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Nyx-LostCore&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Nyx-LostCore&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-LostCore&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
 ## ⚡ More Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nyx-LostCore&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nyx-LostCore&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nyx-LostCore&theme=tokyonight)
 
 ---
 
