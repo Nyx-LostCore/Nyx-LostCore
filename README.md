@@ -33,11 +33,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Nyx-LostCore&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyx-lostcore&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Nyx-LostCore&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nyx-lostcore&theme=tokyonight&hide_border=false" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-LostCore&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx-lostcore&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
 
 ---
 
