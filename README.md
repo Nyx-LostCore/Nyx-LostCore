@@ -52,7 +52,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nyx-LostCore &theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
